@@ -160,6 +160,20 @@ pkpy/
 
 ---
 
+## Example Output
+
+### PK Profile
+![PK Profile](pk_profile.png)
+
+### Semi-log Plot
+![Semi-log Plot](pk_semilog.png)
+
+### Residuals
+![Residuals](pk_residuals.png)
+
+
+---
+
 ## Background
 
 This project was built to fill a gap in open-source DMPK tooling. Commercial software like WinNonlin (Certara) and Phoenix are industry standard but cost-prohibitive for academic labs and early-stage biotechs. `pkpy` implements the core NCA and compartmental modeling workflows using fully open, auditable Python — consistent with FDA NCA guidance and ICH M10 bioanalytical method validation principles.
